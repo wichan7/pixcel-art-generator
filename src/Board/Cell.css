@@ -1,0 +1,7 @@
+.cell {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    margin: 1px;
+    background-color: white;
+}
